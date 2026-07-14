@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Devops enginner | 3rd Year CSE Student | Open Source Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Learner;Data+Structures+%26+Algorithms;Building+Real+World+Projects;Preparing+for+2028+Placements" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Devops+enginner;Data+Structures+%26+Algorithms;Building+Real+World+Projects;Preparing+for+2028+Placements" alt="Typing SVG" />
 </p>
 
 ---
