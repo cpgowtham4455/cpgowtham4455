@@ -92,7 +92,7 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokulnath-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowtham-cp-916152328/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowtham-cp-916152328/)
 
 
 
